@@ -1,0 +1,20 @@
+# Copyright 2008-2012 The MathWorks, Inc.
+#
+# File containing a list of .NET assemblies that are relevant to 
+# PCT along with their group names to be used in the .NET Code 
+# Access Security Policy.  
+# 
+# Format: 
+# <Full assembly filename>,<group name>
+# NB no spaces after the comma!
+#
+
+# DotnetUtilities.dll is used in both client and worker.  Use
+# the same group name in both clientAssemblies.list and 
+# workerAssemblies.list.
+%BINBASE%\DotnetUtilities.dll,Distcomp.DotnetUtilities
+# HpcServerSoaClient.dll is used in @distcomp/@ccsscheduler, so needs
+# to be available on both client and worker.  Use the same group name 
+# in both clientAssemblies.list and workerAssemblies.list.
+%BINBASE%\HpcServerSoaClient.dll,HpcServerSoaClient
+%BINBASE%\MdcsServiceProxy.dll,MdcsServiceProxy

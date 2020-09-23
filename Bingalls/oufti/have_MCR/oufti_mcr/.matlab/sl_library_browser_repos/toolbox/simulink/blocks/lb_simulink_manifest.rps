@@ -1,0 +1,27 @@
+<model>
+    <version>BEE7A92C9E28E15AC0419D1D454A10F1</version>
+    <node>
+        <type>LibraryImpl</type>
+        <id>1</id>
+        <properties>
+            <uniquePath>simulink</uniquePath>
+            <path>simulink</path>
+            <name>simulink</name>
+            <displayName>Simulink</displayName>
+            <displayPath>Simulink</displayPath>
+            <reposDirectorySpec>toolbox/simulink/blocks</reposDirectorySpec>
+            <reposManifestsArchiveSpec>toolbox/simulink/blocks/lb_simulink_manifests_repos.rps</reposManifestsArchiveSpec>
+            <reposIconsArchiveSpec>toolbox/simulink/blocks/lb_simulink_icons_repos.rps</reposIconsArchiveSpec>
+            <productName>simulink</productName>
+            <treeIcon>toolbox/shared/dastudio/resources/SimulinkModelIcon.png</treeIcon>
+            <panelIcon>toolbox/shared/dastudio/resources/SimulinkModelIcon.png</panelIcon>
+            <isFlat>0</isFlat>
+            <isEmpty>0</isEmpty>
+            <directorySpec>simulink</directorySpec>
+            <manifestFileSpec>simulink/lbsimulinkmanifest.rps</manifestFileSpec>
+            <isTopLevel>1</isTopLevel>
+            <lastModified>17:07:39.086</lastModified>
+            <fileDependencies>$#091;dG9vbGJveC9zaW11bGluay9ibG9ja3MvbGlicmFyeS9zaW11bGluay5zbHg=|28231201105261172131066951161421421411670|1410465228|456574,dG9vbGJveC9zaW11bGluay9ibG9ja3Mvc2xibG9ja3MubQ==|283010741612081951021682152022171511623417|1391084588|3784$#093;</fileDependencies>
+        </properties>
+    </node>
+</model>

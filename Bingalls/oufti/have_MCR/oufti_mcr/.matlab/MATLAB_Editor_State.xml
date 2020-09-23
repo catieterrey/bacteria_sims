@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Editor version="1.0">
+   <File absPath="Z:\Science communication\Manuscripts\Papers\2015\Paintdakhi et al 2014-2015\drafts\figures\simulation" lastWrittenTime="1420748316733" name="findlocalminima.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\spotFinder" lastWrittenTime="1421333215874" name="fitGaussiansFinal.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\spotFinder" lastWrittenTime="1423147590773" name="getSpotStats.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\spotFinder" lastWrittenTime="1423768056484" name="processIndividualSpots_old.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="Z:\Science communication\Manuscripts\Papers\2015\Paintdakhi et al 2014-2015\drafts\figures\simulation" lastWrittenTime="1426183423243" name="spotSimulator.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="Z:\Science communication\Manuscripts\Papers\2015\Paintdakhi et al 2014-2015\s2n_simulation" lastWrittenTime="1426878065869" name="compareDoubleSpots.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="Z:\Science communication\Manuscripts\Papers\2015\Paintdakhi et al 2014-2015\s2n_simulation" lastWrittenTime="1426878065876" name="singleSpotErrorMeasure.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="Z:\Science communication\Manuscripts\Papers\2015\Paintdakhi et al 2014-2015\s2n_simulation" lastWrittenTime="1426878065883" name="compareLoc.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="Y:\Ahmad Paintdakhi" lastWrittenTime="1426878065955" name="savemesh.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\microFluidic" lastWrittenTime="1426878065967" name="getExtraDataMultiThread.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\dev\Folders files list" lastWrittenTime="1432062867999" name="ouftiProcess.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\dev\HDR_Toolbox-master" lastWrittenTime="1433949089787" name="WeightFunction.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\dev\HDR_Toolbox-master" lastWrittenTime="1434634603035" name="GrossbergSampling.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\dev\HDR_Toolbox-master" lastWrittenTime="1435347778200" name="computeResponseFunction.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\dev\HDR_Toolbox-master" lastWrittenTime="1435347778947" name="ComputeLDRStackHistogram.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\process" lastWrittenTime="1436195467002" name="shiftmeshes.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="Z:\TMP\ouftiProcess" lastWrittenTime="1436799089818" name="ouftiProcess.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\process" lastWrittenTime="1436809643276" name="getOneSignalContourM.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="Z:\sharedRepo\cellList Tools" lastWrittenTime="1438007990140" name="CL_orientCellList.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\Users\ahmad\Desktop" lastWrittenTime="1439324015061" name="crap.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\parallelFunctions" lastWrittenTime="1439567491520" name="processCellsForFitting.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\parallelFunctions" lastWrittenTime="1439568507602" name="matlabWorkerProcessIndependentFrames.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1439991286422" name="binNbFreedmanDiaconi.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\gui\spotViewer" lastWrittenTime="1440452702216" name="spotViewer.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1445269075210" name="exportCellListFcn.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1445269083633" name="cellLengthFcn.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\microFluidic" lastWrittenTime="1445269294426" name="cell2csv.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\spotDetection" lastWrittenTime="1445269298852" name="fitGaussians.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\objectDetection" lastWrittenTime="1445355086157" name="RunObjectDetection.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\dev\Folders files list\19-May-2015\xx\independent\one" lastWrittenTime="1445355086212" name="seed.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\dev\HDR_Toolbox-master\source_code\Generation" lastWrittenTime="1445355086280" name="tabledFunction.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1445355086311" name="importCsvFcn.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1445355086335" name="cellListFilterFcn.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1445355086344" name="cellMaxWidthFcn.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\spotDetection" lastWrittenTime="1445355086837" name="spotDetection.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\objectDetection" lastWrittenTime="1445355086880" name="displayObjects.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\gui" lastWrittenTime="1445355086903" name="oufti.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1445355086912" name="dispcellFcn.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1445355086935" name="curveGraph.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="C:\projects\oufti\stat" lastWrittenTime="1445355086948" name="demograph.m">
+      <CodeFolds version="1.0"/>
+   </File>
+</Editor>

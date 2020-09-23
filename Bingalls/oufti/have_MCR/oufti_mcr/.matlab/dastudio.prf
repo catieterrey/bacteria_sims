@@ -1,0 +1,30 @@
+#
+#DAStudio Preference File
+#
+
+
+[LibraryBrowser]
+LBAlphaPercent4DisabledBlock=40
+LBColorBlocksDescriptionBackground=255 255 255
+LBColorLibraryBlocksBackgroundBot=245 246 247
+LBColorLibraryBlocksBackgroundTop=255 255 255
+LBColorSearchResultsBackgroundBot=245 246 247
+LBColorSearchResultsBackgroundTop=248 249 250
+LBColorSearchResultsDividerBarBot=153 163 190
+LBColorSearchResultsDividerBarTop=183 190 208
+LBFontFamily=Arial
+LBFontSize=8
+LBGeometry4Blocks=9 9 82 12
+LBGeometry4Window=32 64 600 624
+LBIconSize=Compact
+LBLayout=Grid
+LBSearchResults_isTitleElidedMiddle=1
+LBSearchResults_rememberUserHiddenSections=1
+LBSearch_MatchCase=0
+LBSearch_MatchWholeWord=0
+LBSearch_UseRegExp=0
+LBShowBlockDesc=1
+LBTreeSelectionTimeout=111
+LBWindowState=AAAA/wAAAAD9AAAAAgAAAAAAAADAAAACoPwCAAAAAfsAAAAWAEQAbwBjAGsAVwBpAGQAZwBlAHQAMAEAAAAzAAACoAAAAFEA////AAAAAwAAA23////6/AEAAAAC+wAAABYARABvAGMAawBXAGkAZABnAGUAdAAxAAAAAAAAAANtAAAARQD////7AAAAFgBEAG8AYwBrAFcAaQBkAGcAZQB0ADIBAAAAAAAAA20AAAAAAAAAAAAAAqcAAAKgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAQAFQAbwBvAGwAQgBhAHIAMwEAAAAAAAAAXwAAAAAAAAAAAAAAEABUAG8AbwBsAEIAYQByADQBAAAAXwAAAw4AAAAAAAAAAA==
+LBWindowVersion=1
+
